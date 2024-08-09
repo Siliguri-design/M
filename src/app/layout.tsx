@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Temporary Mail Generator',
-  description: 'Welcome to Temporary Mail Generator, the ultimate online destination for individuals who value their privacy and seek convenient email solutions. Our innovative platform allows you to generate temporary email addresses effortlessly, providing you with a secure and reliable way to communicate without compromising your personal information.',
+  title: '🌸ąŋʝąŋ'ʂ ɬɛɱ℘ɱąıƖ🌸',
+  description: 'Welcome to  Anjan's TempMail.',
 }
 
 export default function RootLayout({
